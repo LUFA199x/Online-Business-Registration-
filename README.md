@@ -18,7 +18,11 @@ Users can add their business name and can see list of business names, edit their
       
 4. Visual Studio Code 
       For ssh Configuration and access to the Amazon EC2 instance used
+            
+5. Git and GitHub
+      Both fo Version Control
       
-Other tools used which are not mentioned above include; 
-      _SSH Config Extention for ssh configuration setup on VS-Code, Python 3 and HTML which the developer @bilalshafiq has used in development stages of the application._         
+      
+#### Other tools used which are not mentioned above include; 
+      _SSH Config Extention for ssh configuration setup on VS-Code, Python, pip3, Flack, venv and HTML which the developer @bilalshafiq has used in development stages of the application._         
       
