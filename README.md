@@ -1,7 +1,7 @@
 # Online-Business-Registration-Application
 ( _This is a QUAD-application developed by @mrbilalshafiq which I deployed with some modification with his permission_  )
 
-Using AWS to deploy a Flask App with MySQL on Ubuntu 22.04 LTS in an EC2 Instance using Visual Studio Code, This is a QUAD-app as it gives room to create, read, update and delete data i.e (user generated business directory).
+Using AWS to deploy a Flask App with MySQL on Ubuntu 22.04 LTS in an EC2 Instance using Visual Studio Code, This is a QUAD-app as it gives room to create, read, update and delete data i.e. (user generated business directory).
 Users can add their business name and can see list of business names, edit their input as well as delete them. Also, it is a fullstack application with database, frontend and backend
 
 
